@@ -1,0 +1,6 @@
+export {Layout as FormView} from "./Layout"
+export {Name as NameView} from "./Name"
+export {Company as CompanyView} from "./Company"
+export {Address as AddressView} from "./Address"
+export {Email as EmailView} from "./Email"
+export {Phone as PhoneView} from "./Phone"
